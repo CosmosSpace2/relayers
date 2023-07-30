@@ -77,6 +77,18 @@
             "relayerAddress": "kujira1ks0qeq9vyt9l7vgasaajd49ff0k8klurgjm6ce"
         },
         {
+            "ticker": "PICA",
+            "relayerAddress": "centauri1ks0qeq9vyt9l7vgasaajd49ff0k8kluras573q"
+        },
+        {
+            "ticker": "AKASH",
+            "relayerAddress": "akash1ks0qeq9vyt9l7vgasaajd49ff0k8klur5p59vf"
+        },
+        {
+            "ticker": "NOLUS",
+            "relayerAddress": "nolus1ks0qeq9vyt9l7vgasaajd49ff0k8klur02fahk"
+        },
+        {
             "ticker": "AXL",
             "relayerAddress": "axelar1ks0qeq9vyt9l7vgasaajd49ff0k8klura5027j"
         }
